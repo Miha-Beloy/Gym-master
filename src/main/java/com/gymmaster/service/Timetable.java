@@ -1,3 +1,7 @@
+package main.java.com.gymmaster.service;
+
+import main.java.com.gymmaster.entity.*;
+import main.java.com.gymmaster.enums.DayOfWeek;
 import java.util.*;
 
 public class Timetable {
