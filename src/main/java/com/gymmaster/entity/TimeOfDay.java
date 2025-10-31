@@ -1,3 +1,5 @@
+package main.java.com.gymmaster.entity;
+
 import java.util.Objects;
 
 public class TimeOfDay {

@@ -1,3 +1,6 @@
+package main.java.com.gymmaster.entity;
+
+import main.java.com.gymmaster.enums.Age;
 import java.util.Objects;
 
 public class Group {
